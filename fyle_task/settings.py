@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'fyle_task.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd2jftcjd1ifasu',
-        'USER': 'vgkgdmixruncla',
-        'PASSWORD': 'c7bb00577ccf0562ea6e5a0165c804c91d1d9bfcbc2a8e31ec02ad02118994e7',
-        'HOST': 'ec2-174-129-226-232.compute-1.amazonaws.com',
+        'NAME': 'd469evrkkrlapa',
+        'USER': 'quslmpgtegrxed',
+        'PASSWORD': '71bb9e28e1f52c61bf1db4a8763515a69c64b7ac956edac55981908dafab33ac',
+        'HOST': 'ec2-23-21-148-223.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
